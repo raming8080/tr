@@ -1,5 +1,5 @@
 $(document).ready(function () {
   $("head").append(
-    '<link rel="stylesheet" href="https://drive.google.com/uc?export=view&id=1VEKM0Pw_3nri3bQP1SAHDKC9uoyP0Sps" type="text/css" />'
+    '<link rel="stylesheet" href="https://raw.githubusercontent.com/raming8080/tr/main/main.css" type="text/css" />'
   );
 });
